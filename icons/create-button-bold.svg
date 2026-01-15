@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="24" viewBox="0 0 120 24">
+  <!-- Plus icon -->
+  <line x1="10" y1="4" x2="10" y2="20" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="2" y1="12" x2="18" y2="12" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- "Create" text -->
+  <text font-weight="600" x="28" y="17" font-size="14" font-family="Arial, sans-serif" fill="#000">
+    Create
+  </text>
+</svg>
